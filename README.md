@@ -1,15 +1,20 @@
 # risoAtHome
 Web-based tools for printing separated colors w/ halftone on a home laser printer
 
-Risograph printers (and other print processes that use halftone color effects) create beautiful layered patterns of colored dots to achieve a full range of colors from just 4 inks -- or even fewer, with creative color mixing. This typically uses [color halftone](https://en.wikipedia.org/wiki/Halftone#Multiple_screens_and_color_halftoning) techniques, but sometimes also [dithering](). 
-
-Here's an example; above is the original picture, and below is the color halftone version:
-
-![Toddler Jeff](https://jywarren.github.io/risoAtHome/examples/jeff-color-halftone.png)
+Risograph printers (and other print processes that use halftone color effects) create beautiful layered patterns of colored dots to achieve a full range of colors from just 4 inks -- or even fewer, with creative color mixing. This typically uses [color halftone](https://en.wikipedia.org/wiki/Halftone#Multiple_screens_and_color_halftoning) techniques, but sometimes also [dithering](https://en.wikipedia.org/wiki/Dithering). 
 
 We don't have a risograph printer, but want to do some home publishing, and got a $270 laser printer. Here are some tools to do fun color work with a laser printer!
 
 We use web-based [Image Sequencer](https://sequencer.publiclab.org) to generate a color halftone version of any image you drag onto the page. Also check out the amazing https://antiboredom.github.io/p5.riso/ by Sam Lavigne and Tega Brain for ways to do a lot of this in [p5js](https://p5js.org)!
+
+Here's a sample of what this process can look like when printed on a laser printer in multiple passes:
+
+![Printed magpie](https://jywarren.github.io/risoAtHome/examples/magpie-printed.jpg)
+
+Here's an example of color halftone in a digital image; above is the original picture, and below is the color halftone version:
+
+![Toddler Jeff](https://jywarren.github.io/risoAtHome/examples/jeff-color-halftone.png)
+
 
 ## Color separation and halftone
 
