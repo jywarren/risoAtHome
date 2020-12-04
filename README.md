@@ -61,7 +61,7 @@ If you print the "Quick version" above, anywhere that is composite black (C+M+Y)
 
 There are lots of tricks and techniques for printing or not printing black. You can [redistribute the black channel among the 3 other colors](https://www.brainbell.com/tutorials/Photoshop/Changing_A_Four-Color_Image_To_Three_Colors.htm), for example; we'd love to make a sequence for that too!
 
-![Registration errors](https://jywarren.github.io/risoAtHome/examples/registration.png)
+![Registration errors](https://jywarren.github.io/risoAtHome/examples/registration.jpg)
 
 ### Registration errors
 
