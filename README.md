@@ -30,7 +30,7 @@ Each of these four sequences generates a different color plate. Drop your image 
 
 Here's what an image of a magpie looks like separated into these 4 channels (click to expand so you can see the detail):
 
-![CMYK magpie](https://jywarren.github.io/risoAtHome/examples/magpie-4.png)
+![CMYK magpie](https://jywarren.github.io/risoAtHome/examples/magpie-4.jpg)
 
 And here's the original magpie painting: 
 
