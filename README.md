@@ -1,4 +1,4 @@
-# risoAtHome
+# riso@home
 Web-based tools for printing separated colors w/ halftone on a home laser printer
 
 Risograph printers (and other print processes that use halftone color effects) create beautiful layered patterns of colored dots to achieve a full range of colors from just 4 inks -- or even fewer, with creative color mixing. This typically uses [color halftone](https://en.wikipedia.org/wiki/Halftone#Multiple_screens_and_color_halftoning) techniques, but sometimes also [dithering](https://en.wikipedia.org/wiki/Dithering). 
