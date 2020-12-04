@@ -11,9 +11,9 @@ Here's a sample of what this process can look like when printed on a laser print
 
 ![Printed magpie](https://jywarren.github.io/risoAtHome/examples/magpie-printed.jpg)
 
-Here's an example of color halftone in a digital image; above is the original picture, and below is the color halftone version:
+Here's an example of color halftone in a digital image; left is the original picture, and right is the color halftone version:
 
-![Toddler Jeff](https://jywarren.github.io/risoAtHome/examples/jeff-color-halftone.png)
+![Toddler Jeff](https://jywarren.github.io/risoAtHome/examples/jeff-2up.jpg)
 
 
 ## Color separation and halftone
