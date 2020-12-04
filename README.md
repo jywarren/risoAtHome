@@ -28,7 +28,7 @@ Each of these four sequences generates a different color plate. Drop your image 
 
 > **Black:** (optional, see below) https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},threshold{input:1}
 
-Here's what an image of a magpie looks like separated into these 4 channels (click to expand so you can see the detail):
+Here's what an image of a magpie looks like separated into these 4 channels ([click here](https://jywarren.github.io/risoAtHome/examples/magpie-4-full.png) to see full res versions):
 
 ![CMYK magpie](https://jywarren.github.io/risoAtHome/examples/magpie-4.jpg)
 
