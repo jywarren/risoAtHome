@@ -22,15 +22,15 @@ Each of these four sequences generates a different color plate. Drop your image 
 
 > <a href="https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{green:255|blue:255}">Cyan</a>
 
-> [Magenta](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|blue:255})
+> <a href="https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|blue:255}">Magenta</a>
 
-> [Yellow](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|green:255})
+> <a href="https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|green:255}">Yellow</a>
 
-> [Black (optional, see below)](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},threshold{input:1})
+> <a href="https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},threshold{input:1})">Black (optional, see below)</a>
 
-Alternatively, try this black channel separator to skip halftoning and increase contrast, to better capture clean black text:
+Alternatively, try this black channel separator to skip halftoning and increase contrast, for example to better capture a clean black text or linework channel:
 
-> [Black w no halftone](https://sequencer.publiclab.org/examples/#steps=contrast{},threshold{input:1})
+> <a href="https://sequencer.publiclab.org/examples/#steps=contrast{},threshold{input:1}">Black w no halftone</a>
 
 Here's what an image of a magpie looks like separated into these 4 channels ([click here](https://jywarren.github.io/risoAtHome/examples/magpie-4-full.png) to see full res versions):
 
