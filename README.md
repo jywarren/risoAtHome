@@ -20,7 +20,7 @@ Here's an example of color halftone in a digital image; left is the original pic
 
 Each of these four sequences generates a different color plate. Drop your image into each to get 4 different layers to print onto the same page. Print 4 times on the same sheet to get some nice mis-alignment (registration error)!
 
-> [Cyan](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{green:255|blue:255})
+> <a href="https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{green:255|blue:255}">Cyan</a>
 
 > [Magenta](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|blue:255})
 
