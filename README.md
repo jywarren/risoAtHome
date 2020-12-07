@@ -20,13 +20,17 @@ Here's an example of color halftone in a digital image; left is the original pic
 
 Each of these four sequences generates a different color plate. Drop your image into each to get 4 different layers to print onto the same page. Print 4 times on the same sheet to get some nice mis-alignment (registration error)!
 
-> **Cyan:** https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{green:255|blue:255}
+> [Cyan](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{green:255|blue:255})
 
-> **Magenta:** https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|blue:255}
+> [Magenta](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|blue:255})
 
-> **Yellow:** https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|green:255}
+> [Yellow](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},dynamic{red:255|green:255})
 
-> **Black:** (optional, see below) https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},threshold{input:1}
+> [Black (optional, see below)](https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3},threshold{input:1})
+
+Alternatively, try this black channel separator to skip halftoning and increase contrast, to better capture clean black text:
+
+> [Black w no halftone](https://sequencer.publiclab.org/examples/#steps=contrast{},threshold{input:1})
 
 Here's what an image of a magpie looks like separated into these 4 channels ([click here](https://jywarren.github.io/risoAtHome/examples/magpie-4-full.png) to see full res versions):
 
