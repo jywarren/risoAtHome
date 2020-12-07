@@ -46,7 +46,7 @@ See more photos of this, plus process photos, here: https://photos.app.goo.gl/1P
 
 To generate a single image you can print in just one pass, you can just use this sequence, which creates a single RGB image with all four color halftone channels. Because it's an RGB image, you won't get rich (4-color) black, or any color blending in black regions (see below). You also won't get any registration errors. But it's a much faster process, of course!
 
-> https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3}
+> <a href="https://sequencer.publiclab.org/examples/#steps=brightness{brightness:100},color-halftone{angle:1|size:3}">Single-image color halftone</a>
 
 This ends up looking like this:
 
